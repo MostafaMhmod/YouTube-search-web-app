@@ -9,7 +9,6 @@
     "angular-joyride": "^1.0.5",
     "axios": "^0.16.0",
     "react": "^15.5.4",
-    "react-bootstrap": "^0.30.9",
     "react-dom": "^15.5.4",
     "react-router": "^4.0.0"
   },
