@@ -1,11 +1,11 @@
-## Simple youtube search app using youtube data API using 
+## Simple youtube search app using youtube data API. 
 
-to start the project type in your terminal the following commands inside the folder path:
+To start the project type in your terminal the following commands inside the folder path:
 
-npm install
+## npm install
 
-npm start
+## npm start
 
 or visit the deployed version :
 
-http://youtube-srch-app.herokuapp.com/
+## http://youtube-srch-app.herokuapp.com/
